@@ -70,7 +70,6 @@
       }
     }
   },
-  "defaultProject": "frontend",
   "cli": {
     "analytics": "417539a4-bafb-4a7f-a78f-fee4a23100c1"
   }
