@@ -1,0 +1,28 @@
+{
+    "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+    "version": 1,
+    "projects": {
+      "frontend": {
+        "projectType": "application",
+        "root": "",
+        "sourceRoot": "src",
+        "architect": {
+          "build": {
+            "options": {
+              "outputPath": "dist/frontend",
+              "index": "src/index.html",
+              "main": "src/main.ts",
+              "polyfills": [],
+              "tsConfig": "tsconfig.json",
+              "assets": [],
+              "styles": ["src/app/app.component.css"],
+              "scripts": []
+            }
+          }
+        }
+      }
+    },
+    "cli": {
+      "analytics": "417539a4-bafb-4a7f-a78f-fee4a23100c1"
+    }
+  }

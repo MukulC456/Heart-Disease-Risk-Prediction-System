@@ -1,0 +1,14 @@
+{
+    "name": "heart-disease-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "ng serve"
+    },
+    "dependencies": {
+      "@angular/core": "^16.0.0",
+      "@angular/common": "^16.0.0",
+      "@angular/platform-browser": "^16.0.0",
+      "@angular/forms": "^16.0.0"
+    }
+  }
