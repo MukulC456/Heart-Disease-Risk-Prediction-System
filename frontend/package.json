@@ -1,5 +1,5 @@
 {
-    "name": "heart-disease-frontend",
+    "name": "Heart Disease Risk Prediction System-frontend",
     "version": "1.0.0",
     "private": true,
     "scripts": {
